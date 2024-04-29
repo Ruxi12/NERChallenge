@@ -1,4 +1,5 @@
-#README
+**README.md**
+**Descriere a codului**
 
 În main.py, am creat o funcție pentru a extrage și stoca textul de pe paginile web ale magazinelor de mobilă, folosind bibliotecile requests și BeautifulSoup, apoi am salvat rezultatele într-un fișier CSV, menționând succesul și eșecurile extragerilor.
 
