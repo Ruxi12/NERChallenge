@@ -1,3 +1,5 @@
+#README
+
 În main.py, am creat o funcție pentru a extrage și stoca textul de pe paginile web ale magazinelor de mobilă, folosind bibliotecile requests și BeautifulSoup, apoi am salvat rezultatele într-un fișier CSV, menționând succesul și eșecurile extragerilor.
 
 In analyse_text.py am curățat și prelucrat textul dintr-un fișier CSV conținând conținutul paginilor web, folosind tehnici de procesare a limbajului natural (NLP) cum ar fi eliminarea semnelor de punctuație, transformarea în litere mici, eliminarea stopwords-urilor și lemmatizarea, pentru a obține texte mai relevante din punct de vedere semantic. 
